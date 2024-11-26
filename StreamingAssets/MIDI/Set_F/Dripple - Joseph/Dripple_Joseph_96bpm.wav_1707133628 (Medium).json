@@ -1,0 +1,2209 @@
+{
+    "guid": "8c30f4a2-5dd5-430d-a348-7737b72980ed",
+    "id": 1000023,
+    "title": "Dripple_Joseph_96bpm.wav",
+    "createdAt": 1707133629,
+    "updatedAt": 1707139963,
+    "bpm": 96,
+    "signature": 4,
+    "fileName": "",
+    "difficulty": 1,
+    "noteList": [
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 2.5,
+            "endTime": 2.5
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 3.125,
+            "endTime": 3.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 3.2031,
+            "endTime": 3.2031
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 3.2812,
+            "endTime": 3.2812
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 3.3594,
+            "endTime": 3.3594
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 3.4375,
+            "endTime": 3.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 3.75,
+            "endTime": 3.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 4.0625,
+            "endTime": 4.0625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 4.375,
+            "endTime": 4.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 4.6875,
+            "endTime": 4.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 4.8438,
+            "endTime": 4.8438
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 5.0,
+            "endTime": 5.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 5.0,
+            "endTime": 5.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 5.625,
+            "endTime": 5.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 5.7813,
+            "endTime": 5.7813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 5.9375,
+            "endTime": 5.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 6.25,
+            "endTime": 6.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 6.3281,
+            "endTime": 6.3281
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 6.4062,
+            "endTime": 6.4062
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 6.4844,
+            "endTime": 6.4844
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 6.5625,
+            "endTime": 6.5625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 6.875,
+            "endTime": 6.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 7.1875,
+            "endTime": 7.1875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 7.5,
+            "endTime": 7.5
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 7.6563,
+            "endTime": 7.6563
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 7.8125,
+            "endTime": 7.8125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 8.4375,
+            "endTime": 8.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 8.75,
+            "endTime": 8.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 9.0625,
+            "endTime": 9.0625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 9.6875,
+            "endTime": 9.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 9.8437,
+            "endTime": 9.8437
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 10.0,
+            "endTime": 10.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 10.3125,
+            "endTime": 10.3125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 10.4688,
+            "endTime": 10.4688
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 10.9375,
+            "endTime": 10.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 11.25,
+            "endTime": 11.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 11.3281,
+            "endTime": 11.3281
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 11.4063,
+            "endTime": 11.4063
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 11.4844,
+            "endTime": 11.4844
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 11.5625,
+            "endTime": 11.5625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 11.875,
+            "endTime": 11.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 12.1875,
+            "endTime": 12.1875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 12.3438,
+            "endTime": 12.3438
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 12.5,
+            "endTime": 12.5
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 12.5,
+            "endTime": 12.6562
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 13.125,
+            "endTime": 13.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 13.2812,
+            "endTime": 13.2812
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 13.4375,
+            "endTime": 13.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 13.5937,
+            "endTime": 13.5937
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 13.75,
+            "endTime": 13.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 14.375,
+            "endTime": 14.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 14.5312,
+            "endTime": 14.5312
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 14.6875,
+            "endTime": 14.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 14.8438,
+            "endTime": 14.8438
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 15.0,
+            "endTime": 15.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 15.625,
+            "endTime": 15.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 15.7813,
+            "endTime": 15.7813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 15.9375,
+            "endTime": 15.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 16.0938,
+            "endTime": 16.0938
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 16.25,
+            "endTime": 16.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 16.875,
+            "endTime": 16.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 17.0313,
+            "endTime": 17.0313
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 17.5,
+            "endTime": 17.5
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 18.125,
+            "endTime": 18.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 18.2812,
+            "endTime": 18.2812
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 18.4375,
+            "endTime": 18.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 18.5938,
+            "endTime": 18.5938
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 18.75,
+            "endTime": 18.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 19.375,
+            "endTime": 19.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 19.5313,
+            "endTime": 19.5313
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 19.6875,
+            "endTime": 19.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 19.8438,
+            "endTime": 19.8438
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 20.0,
+            "endTime": 20.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 20.0,
+            "endTime": 20.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 20.625,
+            "endTime": 20.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 20.7813,
+            "endTime": 20.7813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 20.9375,
+            "endTime": 20.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 21.0937,
+            "endTime": 21.0937
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 21.25,
+            "endTime": 21.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 21.875,
+            "endTime": 21.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 22.0312,
+            "endTime": 22.0312
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 22.5,
+            "endTime": 22.5
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 23.125,
+            "endTime": 23.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 23.2813,
+            "endTime": 23.2813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 23.4375,
+            "endTime": 23.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 23.5938,
+            "endTime": 23.5938
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 23.75,
+            "endTime": 23.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 24.375,
+            "endTime": 24.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 24.5313,
+            "endTime": 24.5313
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 24.6875,
+            "endTime": 24.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 24.8437,
+            "endTime": 24.8437
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 25.0,
+            "endTime": 25.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 25.625,
+            "endTime": 25.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 25.7812,
+            "endTime": 25.7812
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 25.9375,
+            "endTime": 25.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 26.0937,
+            "endTime": 26.0937
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 26.25,
+            "endTime": 26.5625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 26.25,
+            "endTime": 26.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 26.875,
+            "endTime": 26.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 27.0312,
+            "endTime": 27.0312
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 27.5,
+            "endTime": 27.5
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 28.125,
+            "endTime": 28.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 28.2813,
+            "endTime": 28.2813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 28.4375,
+            "endTime": 28.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 28.5937,
+            "endTime": 28.5937
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 28.75,
+            "endTime": 28.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 29.375,
+            "endTime": 29.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 29.5312,
+            "endTime": 29.5312
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 29.6875,
+            "endTime": 29.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 29.8437,
+            "endTime": 29.8437
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 30.0,
+            "endTime": 30.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 30.625,
+            "endTime": 30.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 30.7813,
+            "endTime": 30.7813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 30.9375,
+            "endTime": 30.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 31.0938,
+            "endTime": 31.0938
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 31.25,
+            "endTime": 31.5625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 31.25,
+            "endTime": 31.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 31.875,
+            "endTime": 31.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 32.0313,
+            "endTime": 32.0313
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 32.9688,
+            "endTime": 32.9688
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 33.125,
+            "endTime": 33.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 33.4375,
+            "endTime": 33.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 33.75,
+            "endTime": 33.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 34.0625,
+            "endTime": 34.0625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 34.2187,
+            "endTime": 34.2187
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 34.375,
+            "endTime": 34.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 34.6875,
+            "endTime": 34.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 35.0,
+            "endTime": 35.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 35.4688,
+            "endTime": 35.4688
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 35.625,
+            "endTime": 35.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 35.9375,
+            "endTime": 35.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 36.25,
+            "endTime": 36.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 36.3281,
+            "endTime": 36.3281
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 36.4063,
+            "endTime": 36.4063
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 36.4844,
+            "endTime": 36.4844
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 36.5625,
+            "endTime": 36.5625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 36.7969,
+            "endTime": 36.7969
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 36.875,
+            "endTime": 36.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 37.4219,
+            "endTime": 37.4219
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 37.5,
+            "endTime": 37.5
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 37.6563,
+            "endTime": 37.6563
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 37.8125,
+            "endTime": 37.8125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 37.9687,
+            "endTime": 37.9687
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 38.125,
+            "endTime": 38.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 38.4375,
+            "endTime": 38.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 38.75,
+            "endTime": 38.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 39.0625,
+            "endTime": 39.0625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 39.2188,
+            "endTime": 39.2188
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 39.375,
+            "endTime": 39.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 39.6875,
+            "endTime": 39.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 39.8437,
+            "endTime": 39.8437
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 40.0,
+            "endTime": 40.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 40.3125,
+            "endTime": 40.3125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 40.4688,
+            "endTime": 40.4688
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 40.625,
+            "endTime": 40.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 40.9375,
+            "endTime": 40.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 40.9375,
+            "endTime": 40.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 41.875,
+            "endTime": 41.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 41.875,
+            "endTime": 41.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 43.125,
+            "endTime": 43.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 43.3333,
+            "endTime": 43.3333
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 43.5417,
+            "endTime": 43.5417
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 43.75,
+            "endTime": 43.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 44.375,
+            "endTime": 44.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 44.5833,
+            "endTime": 44.5833
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 44.7917,
+            "endTime": 44.7917
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 45.0,
+            "endTime": 45.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 45.3125,
+            "endTime": 45.3125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 45.7813,
+            "endTime": 45.7813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 45.9375,
+            "endTime": 45.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 46.0938,
+            "endTime": 46.0938
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 46.25,
+            "endTime": 46.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 46.875,
+            "endTime": 46.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 47.1875,
+            "endTime": 47.1875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 48.125,
+            "endTime": 48.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 48.3333,
+            "endTime": 48.3333
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 48.5417,
+            "endTime": 48.5417
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 48.75,
+            "endTime": 48.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 49.375,
+            "endTime": 49.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 49.5833,
+            "endTime": 49.5833
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 49.7917,
+            "endTime": 49.7917
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 50.0,
+            "endTime": 50.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 50.3125,
+            "endTime": 50.3125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 50.9375,
+            "endTime": 50.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 51.0937,
+            "endTime": 51.0937
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 51.25,
+            "endTime": 51.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 51.875,
+            "endTime": 51.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 53.125,
+            "endTime": 53.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 53.3333,
+            "endTime": 53.3333
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 53.5417,
+            "endTime": 53.5417
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 53.75,
+            "endTime": 53.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 54.375,
+            "endTime": 54.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 54.5833,
+            "endTime": 54.5833
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 54.6875,
+            "endTime": 54.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 54.7917,
+            "endTime": 54.7917
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 54.8437,
+            "endTime": 54.8437
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 55.0,
+            "endTime": 55.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 55.3125,
+            "endTime": 55.3125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 55.7812,
+            "endTime": 55.7812
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 55.9375,
+            "endTime": 55.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 56.0938,
+            "endTime": 56.0938
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 56.25,
+            "endTime": 56.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 56.875,
+            "endTime": 56.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 57.1875,
+            "endTime": 57.1875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 58.125,
+            "endTime": 58.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 58.3333,
+            "endTime": 58.3333
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 58.5417,
+            "endTime": 58.5417
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 58.75,
+            "endTime": 58.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 59.375,
+            "endTime": 59.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 59.5833,
+            "endTime": 59.5833
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 59.7917,
+            "endTime": 59.7917
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 60.0,
+            "endTime": 60.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 60.3125,
+            "endTime": 60.3125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 60.9375,
+            "endTime": 60.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 61.0937,
+            "endTime": 61.0937
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 61.25,
+            "endTime": 61.25
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 61.875,
+            "endTime": 61.875
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 62.5,
+            "endTime": 63.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 63.125,
+            "endTime": 63.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 63.2812,
+            "endTime": 63.2812
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 63.4375,
+            "endTime": 63.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 63.5938,
+            "endTime": 63.5938
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 63.75,
+            "endTime": 64.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 64.375,
+            "endTime": 64.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 64.5313,
+            "endTime": 64.5313
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 64.6875,
+            "endTime": 64.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 64.8438,
+            "endTime": 64.8438
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 65.0,
+            "endTime": 65.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 65.625,
+            "endTime": 65.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 65.7813,
+            "endTime": 65.7813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 65.9375,
+            "endTime": 65.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 66.0937,
+            "endTime": 66.0937
+        },
+        {
+            "noteType": 1,
+            "laneNum": 1,
+            "startTime": 66.25,
+            "endTime": 66.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 66.875,
+            "endTime": 66.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 67.0312,
+            "endTime": 67.0312
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 67.0312,
+            "endTime": 67.0312
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 67.5,
+            "endTime": 68.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 68.125,
+            "endTime": 68.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 68.2813,
+            "endTime": 68.2813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 68.4375,
+            "endTime": 68.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 68.5938,
+            "endTime": 68.5938
+        },
+        {
+            "noteType": 1,
+            "laneNum": 2,
+            "startTime": 68.75,
+            "endTime": 69.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 69.375,
+            "endTime": 69.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 69.5313,
+            "endTime": 69.5313
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 69.6875,
+            "endTime": 69.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 69.8437,
+            "endTime": 69.8437
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 70.0,
+            "endTime": 70.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 70.625,
+            "endTime": 70.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 70.7812,
+            "endTime": 70.7812
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 70.9375,
+            "endTime": 70.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 71.0938,
+            "endTime": 71.0938
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 71.25,
+            "endTime": 71.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 71.875,
+            "endTime": 71.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 72.0313,
+            "endTime": 72.0313
+        },
+        {
+            "noteType": 1,
+            "laneNum": 2,
+            "startTime": 72.5,
+            "endTime": 73.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 73.125,
+            "endTime": 73.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 73.2813,
+            "endTime": 73.2813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 73.4375,
+            "endTime": 73.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 73.5937,
+            "endTime": 73.5937
+        },
+        {
+            "noteType": 1,
+            "laneNum": 2,
+            "startTime": 73.75,
+            "endTime": 74.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 74.375,
+            "endTime": 74.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 74.5312,
+            "endTime": 74.5312
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 74.6875,
+            "endTime": 74.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 74.8438,
+            "endTime": 74.8438
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 75.0,
+            "endTime": 75.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 75.625,
+            "endTime": 75.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 75.7813,
+            "endTime": 75.7813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 75.9375,
+            "endTime": 75.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 76.0938,
+            "endTime": 76.0938
+        },
+        {
+            "noteType": 1,
+            "laneNum": 1,
+            "startTime": 76.25,
+            "endTime": 76.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 76.875,
+            "endTime": 76.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 77.0313,
+            "endTime": 77.0313
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 77.5,
+            "endTime": 78.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 78.125,
+            "endTime": 78.125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 78.2812,
+            "endTime": 78.2812
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 78.4375,
+            "endTime": 78.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 78.5938,
+            "endTime": 78.5938
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 78.75,
+            "endTime": 79.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 79.375,
+            "endTime": 79.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 79.5313,
+            "endTime": 79.5313
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 79.6875,
+            "endTime": 79.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 79.8438,
+            "endTime": 79.8438
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 80.0,
+            "endTime": 80.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 80.625,
+            "endTime": 80.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 80.7813,
+            "endTime": 80.7813
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 80.9375,
+            "endTime": 80.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 81.0937,
+            "endTime": 81.0937
+        },
+        {
+            "noteType": 1,
+            "laneNum": 1,
+            "startTime": 81.25,
+            "endTime": 81.875
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 81.875,
+            "endTime": 82.5
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 82.5,
+            "endTime": 83.4375
+        },
+        {
+            "noteType": 1,
+            "laneNum": 1,
+            "startTime": 83.4375,
+            "endTime": 84.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 84.6875,
+            "endTime": 84.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 84.8437,
+            "endTime": 84.8437
+        },
+        {
+            "noteType": 1,
+            "laneNum": 1,
+            "startTime": 85.0,
+            "endTime": 85.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 85.625,
+            "endTime": 85.625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 85.7812,
+            "endTime": 85.7812
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 85.9375,
+            "endTime": 86.875
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 86.25,
+            "endTime": 86.5625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 86.7187,
+            "endTime": 86.7187
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 86.875,
+            "endTime": 87.5
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 86.875,
+            "endTime": 86.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 87.5,
+            "endTime": 87.5
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 87.5,
+            "endTime": 88.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 87.6562,
+            "endTime": 87.6562
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 87.8125,
+            "endTime": 87.8125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 87.9688,
+            "endTime": 87.9688
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 88.4375,
+            "endTime": 88.4375
+        },
+        {
+            "noteType": 1,
+            "laneNum": 2,
+            "startTime": 88.4375,
+            "endTime": 89.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 88.75,
+            "endTime": 88.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 89.0625,
+            "endTime": 89.0625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 89.2188,
+            "endTime": 89.2188
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 89.375,
+            "endTime": 89.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 89.6875,
+            "endTime": 89.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 89.8438,
+            "endTime": 89.8438
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 90.0,
+            "endTime": 90.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 90.3125,
+            "endTime": 90.3125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 90.4687,
+            "endTime": 90.4687
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 90.625,
+            "endTime": 90.625
+        },
+        {
+            "noteType": 1,
+            "laneNum": 1,
+            "startTime": 90.9375,
+            "endTime": 91.875
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 91.25,
+            "endTime": 91.5625
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 91.875,
+            "endTime": 92.5
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 91.875,
+            "endTime": 91.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 92.0833,
+            "endTime": 92.0833
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 92.2917,
+            "endTime": 92.2917
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 92.3437,
+            "endTime": 92.3437
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 92.5,
+            "endTime": 92.5
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 92.5,
+            "endTime": 93.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 92.9688,
+            "endTime": 92.9688
+        },
+        {
+            "noteType": 1,
+            "laneNum": 1,
+            "startTime": 93.4375,
+            "endTime": 94.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 93.4375,
+            "endTime": 93.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 93.75,
+            "endTime": 93.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 94.0625,
+            "endTime": 94.0625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 94.2187,
+            "endTime": 94.2187
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 94.375,
+            "endTime": 94.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 94.6875,
+            "endTime": 94.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 94.8438,
+            "endTime": 94.8438
+        },
+        {
+            "noteType": 1,
+            "laneNum": 0,
+            "startTime": 95.0,
+            "endTime": 95.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 95.4688,
+            "endTime": 95.4688
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 95.625,
+            "endTime": 95.625
+        },
+        {
+            "noteType": 1,
+            "laneNum": 1,
+            "startTime": 95.9375,
+            "endTime": 96.875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 95.9375,
+            "endTime": 95.9375
+        },
+        {
+            "noteType": 1,
+            "laneNum": 2,
+            "startTime": 96.25,
+            "endTime": 96.5625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 96.7188,
+            "endTime": 96.7188
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 96.875,
+            "endTime": 96.875
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 96.875,
+            "endTime": 97.5
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 97.1875,
+            "endTime": 97.1875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 1,
+            "startTime": 97.3438,
+            "endTime": 97.3438
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 97.5,
+            "endTime": 97.5
+        },
+        {
+            "noteType": 1,
+            "laneNum": 2,
+            "startTime": 97.5,
+            "endTime": 98.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 97.7083,
+            "endTime": 97.7083
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 97.9167,
+            "endTime": 97.9167
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 98.125,
+            "endTime": 98.125
+        },
+        {
+            "noteType": 1,
+            "laneNum": 1,
+            "startTime": 98.4375,
+            "endTime": 99.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 98.4375,
+            "endTime": 98.4375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 98.75,
+            "endTime": 98.75
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 99.0625,
+            "endTime": 99.0625
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 99.2188,
+            "endTime": 99.2188
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 99.375,
+            "endTime": 99.375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 99.6875,
+            "endTime": 99.6875
+        },
+        {
+            "noteType": 0,
+            "laneNum": 2,
+            "startTime": 99.8437,
+            "endTime": 99.8437
+        },
+        {
+            "noteType": 1,
+            "laneNum": 1,
+            "startTime": 100.0,
+            "endTime": 100.9375
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 100.0,
+            "endTime": 100.0
+        },
+        {
+            "noteType": 0,
+            "laneNum": 3,
+            "startTime": 100.3125,
+            "endTime": 100.3125
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 100.4688,
+            "endTime": 100.4688
+        },
+        {
+            "noteType": 0,
+            "laneNum": 0,
+            "startTime": 100.625,
+            "endTime": 100.625
+        },
+        {
+            "noteType": 1,
+            "laneNum": 3,
+            "startTime": 100.9375,
+            "endTime": 101.875
+        }
+    ]
+}

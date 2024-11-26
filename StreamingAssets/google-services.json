@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522783040360",
+    "project_id": "ss-database-97ac0",
+    "storage_bucket": "ss-database-97ac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522783040360:android:dc1e8aa25d4f13c323ecdd",
+        "android_client_info": {
+          "package_name": "com.isekai.starsymphony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522783040360-1ukua2dl0v7q851ea9ssis82v3pg9773.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZFZ9eoxkh2dSE-V1LX_jBw-ASdJ7Sdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522783040360-1ukua2dl0v7q851ea9ssis82v3pg9773.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
